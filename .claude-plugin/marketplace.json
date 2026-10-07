@@ -1,5 +1,6 @@
 {
   "name": "claude-buddy",
+  "description": "Compagnon ASCII pour Claude Code",
   "owner": { "name": "Brice Harismendy" },
   "plugins": [{ "name": "buddy", "source": "./" }]
 }
