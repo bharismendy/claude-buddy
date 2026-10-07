@@ -9,7 +9,7 @@ libéré pour faire éclore un nouvel œuf. 8 espèces, 5 raretés, 1 % de shiny
 Dans une session Claude Code (terminal) :
 
 ```
-/plugin install buddy --marketplace <owner>/claude-buddy
+/plugin install buddy --marketplace bharismendy/claude-buddy
 ```
 
 Réponds `y` pour ajouter le marketplace, puis choisis la portée (user par défaut).
