@@ -1,0 +1,7 @@
+{
+  "name": "buddy",
+  "version": "0.1.0",
+  "description": "Un compagnon ASCII qui vit au-dessus du prompt et réagit à la session",
+  "author": { "name": "Brice Harismendy" },
+  "types": "./types/index.d.ts"
+}
