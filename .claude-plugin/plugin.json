@@ -2,6 +2,10 @@
   "name": "buddy",
   "version": "0.1.0",
   "description": "Un compagnon ASCII qui vit au-dessus du prompt et réagit à la session",
-  "author": { "name": "Brice Harismendy" },
+  "author": {
+    "name": "Brice Harismendy"
+  },
+  "repository": "https://github.com/bharismendy/claude-buddy",
+  "license": "MIT",
   "types": "./types/index.d.ts"
 }

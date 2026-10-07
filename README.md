@@ -30,3 +30,12 @@ Réponds `y` pour ajouter le marketplace, puis choisis la portée (user par déf
 ```
 
 Les réponses quand on lui parle passent par Haiku ; ses autres réactions sont des phrases toutes faites.
+
+## Documentation
+
+- [Guide d'utilisation](docs/usage.md) : espèces, raretés, réactions, mute, libération et éclosion.
+- [Guide de développement](docs/development.md) : structure, fonctionnement, tests, ajouter une espèce.
+
+## Licence
+
+[MIT](LICENSE)
